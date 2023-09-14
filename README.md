@@ -6,7 +6,6 @@ This program acts as a mock multi-cryptocurrency market which utilizes a bid-ask
 - UserAccounts are kept for each person who makes a currency deposit into the market
 - Orders can then be made to spend the user's currency to buy another currency
 
-  
 ## To view the output of the program:
 > this will display the output from the sequence of functions in main.cpp
 
