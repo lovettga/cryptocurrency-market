@@ -1,4 +1,5 @@
-# cryptocurrency-market
+# Cryptocurrency Mini-Market
+> Apr 2021
 This program acts as a mock multi-cryptocurrency market which utilizes a bid-ask spread to conduct and verify trades between multiple portfolios using C++.
 
   
